@@ -1,2 +1,2 @@
-# LikeTapTapDetailPage
-仿tap tap app的详情页面
+## Preview
+![效果图](https://github.com/YangShaoXiong/LikeTapTapDetailPage/blob/master/screenshot/image.gif)
